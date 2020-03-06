@@ -4,6 +4,10 @@
 - made with [Inkscape](https://inkscape.org)
 - using font [warsaw-gothic](https://www.fontspace.com/kineticplasma-fonts/warsaw-gothic)
 
-![](poker.svg)
+## Preview
+
+![](preview.png)
+
+## Contributions
 
 Contributions are welcome (translations, adaptations, etc)
