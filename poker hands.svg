@@ -1,0 +1,2207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="poker hands.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata13843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1014"
+     id="namedview13841"
+     showgrid="false"
+     inkscape:zoom="0.5946522"
+     inkscape:cx="257.96787"
+     inkscape:cy="563.40385"
+     inkscape:window-x="0"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2">
+    <inkscape:tag
+       id="Définir 3"
+       inkscape:expanded="true">
+      <inkscape:tagref
+         xlink:href="#text11057"
+         id="tagref15014" />
+      <inkscape:tagref
+         xlink:href="#text11061"
+         id="tagref15016" />
+      <inkscape:tagref
+         xlink:href="#text11065"
+         id="tagref15018" />
+      <inkscape:tagref
+         xlink:href="#text11069"
+         id="tagref15020" />
+      <inkscape:tagref
+         xlink:href="#text11073"
+         id="tagref15022" />
+      <inkscape:tagref
+         xlink:href="#text11077"
+         id="tagref15024" />
+      <inkscape:tagref
+         xlink:href="#text11081"
+         id="tagref15026" />
+      <inkscape:tagref
+         xlink:href="#text11085"
+         id="tagref15028" />
+      <inkscape:tagref
+         xlink:href="#text12001"
+         id="tagref15030" />
+      <inkscape:tagref
+         xlink:href="#text11093"
+         id="tagref15032" />
+    </inkscape:tag>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter18788"
+       x="-0.050842106"
+       width="1.1016842"
+       y="-0.035777777"
+       height="1.0715556">
+      <feGaussianBlur
+         stdDeviation="0.38033854"
+         id="feGaussianBlur18790" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter18788-2"
+       x="-0.050842106"
+       width="1.1016842"
+       y="-0.035777777"
+       height="1.0715556">
+      <feGaussianBlur
+         stdDeviation="0.38033854"
+         id="feGaussianBlur18790-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter15046"
+       x="-0.050842106"
+       width="1.1016842"
+       y="-0.035777777"
+       height="1.0715556">
+      <feGaussianBlur
+         stdDeviation="0.38033854"
+         id="feGaussianBlur15044" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter15050"
+       x="-0.050842106"
+       width="1.1016842"
+       y="-0.035777777"
+       height="1.0715556">
+      <feGaussianBlur
+         stdDeviation="0.38033854"
+         id="feGaussianBlur15048" />
+    </filter>
+  </defs>
+  <g
+     id="g16125"
+     transform="translate(0.21844507,7.8531332)">
+    <g
+       inkscape:label="g15011"
+       style="stroke-width:1.85987329"
+       transform="matrix(0.53742501,0,0,0.53791712,-10.67194,-0.48165723)"
+       id="g15011">
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6458334e-5,3.940026e-5)"
+         id="g11735">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11130">
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(70.962654,-33.388559)"
+             id="g1932">
+            <g
+               id="g1924"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect1920"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect1922"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               id="path1926"
+               d="m 37.771516,70.346839 c -1.111391,0 -2.01339,0.962051 -2.01339,2.147437 0,2.41149 2.280721,3.043763 3.83488,5.427823 1.469343,-2.369397 3.834881,-3.093285 3.834881,-5.427823 0,-1.185386 -0.901999,-2.147437 -2.013391,-2.147437 -0.806161,0 -1.500003,0.50769 -1.82149,1.238131 -0.321485,-0.730434 -1.015328,-1.238131 -1.82149,-1.238131 z"
+               style="fill:#d02028;fill-opacity:1;stroke:#d02028;stroke-width:1.13120854;stroke-linejoin:round" />
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.41468"
+               y="77.329758"
+               id="text1930"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan1928"
+                 x="34.41468"
+                 y="77.329758"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">K</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g1946"
+             transform="translate(49.962652,-33.388559)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g1938">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect1934"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect1936"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#d02028;fill-opacity:1;stroke:#d02028;stroke-width:1.13120854;stroke-linejoin:round"
+               d="m 37.771516,70.346839 c -1.111391,0 -2.01339,0.962051 -2.01339,2.147437 0,2.41149 2.280721,3.043763 3.83488,5.427823 1.469343,-2.369397 3.834881,-3.093285 3.834881,-5.427823 0,-1.185386 -0.901999,-2.147437 -2.013391,-2.147437 -0.806161,0 -1.500003,0.50769 -1.82149,1.238131 -0.321485,-0.730434 -1.015328,-1.238131 -1.82149,-1.238131 z"
+               id="path1940" />
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text1944"
+               y="77.329758"
+               x="34.5107"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.329758"
+                 x="34.5107"
+                 id="tspan1942">Q</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(7.9626477,-33.388559)"
+             id="g1960">
+            <g
+               id="g1952"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect1948"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect1950"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               id="path1954"
+               d="m 37.771516,70.346839 c -1.111391,0 -2.01339,0.962051 -2.01339,2.147437 0,2.41149 2.280721,3.043763 3.83488,5.427823 1.469343,-2.369397 3.834881,-3.093285 3.834881,-5.427823 0,-1.185386 -0.901999,-2.147437 -2.013391,-2.147437 -0.806161,0 -1.500003,0.50769 -1.82149,1.238131 -0.321485,-0.730434 -1.015328,-1.238131 -1.82149,-1.238131 z"
+               style="fill:#d02028;fill-opacity:1;stroke:#d02028;stroke-width:1.13120854;stroke-linejoin:round" />
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.878021"
+               y="77.329758"
+               id="text1958"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan1956"
+                 x="34.878021"
+                 y="77.329758"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">10</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g1974"
+             transform="translate(28.96265,-33.388559)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g1966">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect1962"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect1964"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#d02028;fill-opacity:1;stroke:#d02028;stroke-width:1.13120854;stroke-linejoin:round"
+               d="m 37.771516,70.346839 c -1.111391,0 -2.01339,0.962051 -2.01339,2.147437 0,2.41149 2.280721,3.043763 3.83488,5.427823 1.469343,-2.369397 3.834881,-3.093285 3.834881,-5.427823 0,-1.185386 -0.901999,-2.147437 -2.013391,-2.147437 -0.806161,0 -1.500003,0.50769 -1.82149,1.238131 -0.321485,-0.730434 -1.015328,-1.238131 -1.82149,-1.238131 z"
+               id="path1968" />
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text1972"
+               y="77.329758"
+               x="34.956127"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.329758"
+                 x="34.956127"
+                 id="tspan1970">J</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(91.962656,-33.121289)"
+             id="g10961">
+            <g
+               id="g10953"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect10949"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect10951"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               id="path10955"
+               d="m 37.771516,70.346839 c -1.111391,0 -2.01339,0.962051 -2.01339,2.147437 0,2.41149 2.280721,3.043763 3.83488,5.427823 1.469343,-2.369397 3.834881,-3.093285 3.834881,-5.427823 0,-1.185386 -0.901999,-2.147437 -2.013391,-2.147437 -0.806161,0 -1.500003,0.50769 -1.82149,1.238131 -0.321485,-0.730434 -1.015328,-1.238131 -1.82149,-1.238131 z"
+               style="fill:#d02028;fill-opacity:1;stroke:#d02028;stroke-width:1.13120854;stroke-linejoin:round" />
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.681103"
+               y="77.329758"
+               id="text10959"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan10957"
+                 x="34.681103"
+                 y="77.329758"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">A</tspan>
+            </text>
+          </g>
+        </g>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088"
+           x="138.46906"
+           y="40.338825"
+           id="text11057"
+           transform="scale(1.0669912,0.93721486)">
+          <tspan
+             id="tspan11055"
+             x="138.46906"
+             y="40.338825"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148">Royal Fush</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-6.8357461)"
+         id="g11812">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11516">
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(7.9626477,33.759039)"
+             id="g10973">
+            <g
+               id="g10967"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect10963"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect10965"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.63467"
+               y="77.329758"
+               id="text10971"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan10969"
+                 x="34.63467"
+                 y="77.329758"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">4</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g10985"
+             transform="translate(28.96265,33.759039)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g10979">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect10975"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect10977"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text10983"
+               y="77.329758"
+               x="34.63467"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.329758"
+                 x="34.63467"
+                 id="tspan10981">4</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(49.962652,33.759039)"
+             id="g10997">
+            <g
+               id="g10991"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect10987"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect10989"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.63467"
+               y="77.329758"
+               id="text10995"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan10993"
+                 x="34.63467"
+                 y="77.329758"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">4</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g11009"
+             transform="translate(70.962654,33.759039)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g11003">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect10999"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect11001"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text11007"
+               y="77.329758"
+               x="34.63467"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.329758"
+                 x="34.63467"
+                 id="tspan11005">4</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(91.962656,33.759039)"
+             id="g11029">
+            <g
+               id="g11027"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect11023"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect11025"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+          </g>
+        </g>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088"
+           x="138.46906"
+           y="113.1968"
+           id="text11065"
+           transform="scale(1.0669912,0.93721486)">
+          <tspan
+             id="tspan11063"
+             x="138.46906"
+             y="113.1968"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148">Four of a kind</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-11.195868)"
+         id="g11848">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11549">
+          <g
+             style="stroke-width:1.85987329"
+             id="g11224">
+            <g
+               style="stroke-width:1.85987329"
+               id="g2419"
+               transform="translate(7.9626477,68.007802)">
+              <g
+                 style="display:inline;stroke-width:1.85987329"
+                 id="g2411">
+                <rect
+                   rx="3.1330841"
+                   ry="3.1302176"
+                   y="54.740196"
+                   x="30.950163"
+                   height="25.513393"
+                   width="17.953869"
+                   id="rect2407"
+                   style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+                <rect
+                   style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="rect2409"
+                   width="17.953869"
+                   height="25.513393"
+                   x="30.616072"
+                   y="54.339287"
+                   ry="3.1302176"
+                   rx="3.1330841" />
+              </g>
+              <text
+                 transform="scale(1.1413428,0.87616096)"
+                 id="text2417"
+                 y="77.335892"
+                 x="34.878021"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+                <tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                   y="77.335892"
+                   x="34.878021"
+                   id="tspan2415">10</tspan>
+              </text>
+            </g>
+            <g
+               style="stroke-width:1.85987329"
+               transform="translate(70.962654,68.098048)"
+               id="g2500">
+              <g
+                 id="g2492"
+                 style="display:inline;stroke-width:1.85987329">
+                <rect
+                   style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                   id="rect2488"
+                   width="17.953869"
+                   height="25.513393"
+                   x="30.950163"
+                   y="54.740196"
+                   ry="3.1302176"
+                   rx="3.1330841" />
+                <rect
+                   rx="3.1330841"
+                   ry="3.1302176"
+                   y="54.339287"
+                   x="30.616072"
+                   height="25.513393"
+                   width="17.953869"
+                   id="rect2490"
+                   style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              </g>
+              <text
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+                 x="34.681103"
+                 y="77.335892"
+                 id="text2498"
+                 transform="scale(1.1413428,0.87616096)">
+                <tspan
+                   id="tspan2496"
+                   x="34.681103"
+                   y="77.335892"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">A</tspan>
+              </text>
+            </g>
+            <g
+               style="stroke-width:1.85987329"
+               transform="translate(28.96265,68.007802)"
+               id="g2528">
+              <g
+                 id="g2520"
+                 style="display:inline;stroke-width:1.85987329">
+                <rect
+                   style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                   id="rect2516"
+                   width="17.953869"
+                   height="25.513393"
+                   x="30.950163"
+                   y="54.740196"
+                   ry="3.1302176"
+                   rx="3.1330841" />
+                <rect
+                   rx="3.1330841"
+                   ry="3.1302176"
+                   y="54.339287"
+                   x="30.616072"
+                   height="25.513393"
+                   width="17.953869"
+                   id="rect2518"
+                   style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              </g>
+              <text
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+                 x="34.97562"
+                 y="77.335892"
+                 id="text2524"
+                 transform="scale(1.1413428,0.87616096)">
+                <tspan
+                   id="tspan2522"
+                   x="34.97562"
+                   y="77.335892"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">10</tspan>
+              </text>
+            </g>
+            <g
+               style="stroke-width:1.85987329"
+               id="g2542"
+               transform="translate(49.962652,68.007802)">
+              <g
+                 style="display:inline;stroke-width:1.85987329"
+                 id="g2534">
+                <rect
+                   rx="3.1330841"
+                   ry="3.1302176"
+                   y="54.740196"
+                   x="30.950163"
+                   height="25.513393"
+                   width="17.953869"
+                   id="rect2530"
+                   style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+                <rect
+                   style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="rect2532"
+                   width="17.953869"
+                   height="25.513393"
+                   x="30.616072"
+                   y="54.339287"
+                   ry="3.1302176"
+                   rx="3.1330841" />
+              </g>
+              <text
+                 transform="scale(1.1413428,0.87616096)"
+                 id="text2538"
+                 y="77.335892"
+                 x="34.97562"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+                <tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                   y="77.335892"
+                   x="34.97562"
+                   id="tspan2536">10</tspan>
+              </text>
+            </g>
+            <g
+               style="stroke-width:1.85987329"
+               id="g11041"
+               transform="translate(91.962656,68.098048)">
+              <g
+                 style="display:inline;stroke-width:1.85987329"
+                 id="g11035">
+                <rect
+                   rx="3.1330841"
+                   ry="3.1302176"
+                   y="54.740196"
+                   x="30.950163"
+                   height="25.513393"
+                   width="17.953869"
+                   id="rect11031"
+                   style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+                <rect
+                   style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="rect11033"
+                   width="17.953869"
+                   height="25.513393"
+                   x="30.616072"
+                   y="54.339287"
+                   ry="3.1302176"
+                   rx="3.1330841" />
+              </g>
+              <text
+                 transform="scale(1.1413428,0.87616096)"
+                 id="text11039"
+                 y="77.335892"
+                 x="34.681103"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+                <tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                   y="77.335892"
+                   x="34.681103"
+                   id="tspan11037">A</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0669912,0.93721486)"
+           id="text11069"
+           y="149.75986"
+           x="138.46906"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148"
+             y="149.75986"
+             x="138.46906"
+             id="tspan11067">Full House</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-16.557761)"
+         id="g11879">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11577">
+          <g
+             transform="translate(7.9626477,103.34858)"
+             id="g2556"
+             style="stroke-width:1.85987329">
+            <g
+               id="g2548"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect2544"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2546"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               d="m 42.737732,66.014524 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               id="path2554"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             id="g2870"
+             transform="translate(28.96265,103.34858)"
+             style="stroke-width:1.85987329">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g2866">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2862"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect2864"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <path
+               id="path2868"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               d="m 42.737732,66.014524 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(49.962652,103.34858)"
+             id="g2880"
+             style="stroke-width:1.85987329">
+            <g
+               id="g2876"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect2872"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2874"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               d="m 42.737732,66.014524 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               id="path2878"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             id="g2890"
+             transform="translate(70.962654,103.34858)"
+             style="stroke-width:1.85987329">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g2886">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2882"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect2884"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <path
+               id="path2888"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               d="m 42.737732,66.014524 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(91.962656,103.34858)"
+             id="g2900"
+             style="stroke-width:1.85987329">
+            <g
+               id="g2896"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect2892"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2894"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               d="m 42.737732,66.014524 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               id="path2898"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088"
+           x="138.46906"
+           y="187.42"
+           id="text11073"
+           transform="scale(1.0669912,0.93721486)">
+          <tspan
+             id="tspan11071"
+             x="138.46906"
+             y="187.42"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148">Flush</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-21.251748)"
+         id="g11915">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11610">
+          <g
+             style="stroke-width:1.85987329"
+             id="g2912"
+             transform="translate(7.9626477,137.93121)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g2906">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2902"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect2904"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text2910"
+               y="77.335892"
+               x="34.681103"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.681103"
+                 id="tspan2908">A</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(28.96265,137.93121)"
+             id="g2924">
+            <g
+               id="g2918"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect2914"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2916"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.785439"
+               y="77.335892"
+               id="text2922"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan2920"
+                 x="34.785439"
+                 y="77.335892"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">2</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g2936"
+             transform="translate(49.962652,137.93121)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g2930">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2926"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect2928"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text2934"
+               y="77.335892"
+               x="34.735134"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.735134"
+                 id="tspan2932">3</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(70.962654,137.93121)"
+             id="g2948">
+            <g
+               id="g2942"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect2938"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2940"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.63467"
+               y="77.335892"
+               id="text2946"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan2944"
+                 x="34.63467"
+                 y="77.335892"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">4</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g2968"
+             transform="translate(91.962656,137.93121)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g2962">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2958"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect2960"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text2966"
+               y="77.335892"
+               x="34.595833"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.595833"
+                 id="tspan2964">5</tspan>
+            </text>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0669912,0.93721486)"
+           id="text11077"
+           y="223.06389"
+           x="138.7795"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148"
+             y="223.06389"
+             x="138.7795"
+             id="tspan11075">Straight</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-24.846142)"
+         id="g11947">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11311">
+          <g
+             style="stroke-width:1.85987329"
+             id="g3040"
+             transform="translate(7.9626477,171.44111)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3034">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3030"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3032"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text3038"
+               y="77.335892"
+               x="34.735134"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.735134"
+                 id="tspan3036">3</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(70.962654,171.44111)"
+             id="g3052">
+            <g
+               id="g3046"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect3042"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3044"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3064"
+             transform="translate(91.962656,171.44111)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3058">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3054"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3056"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(28.96265,171.44111)"
+             id="g3076">
+            <g
+               id="g3070"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect3066"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3068"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.735134"
+               y="77.335892"
+               id="text3074"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan3072"
+                 x="34.735134"
+                 y="77.335892"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">3</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3088"
+             transform="translate(49.962652,171.44111)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3082">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3078"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3080"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text3086"
+               y="77.335892"
+               x="34.735134"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.735134"
+                 id="tspan3084">3</tspan>
+            </text>
+          </g>
+        </g>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088"
+           x="139.00528"
+           y="260.15051"
+           id="text11081"
+           transform="scale(1.0669912,0.93721486)">
+          <tspan
+             id="tspan11079"
+             x="139.00528"
+             y="260.15051"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148">Three of a Kind</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-24.089865)"
+         id="g12078">
+        <g
+           style="stroke-width:1.85987329"
+           id="g12170">
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(49.962652,200.84076)"
+             id="g3100">
+            <g
+               id="g3094"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect3090"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3092"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.785439"
+               y="77.335892"
+               id="text3098"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan3096"
+                 x="34.785439"
+                 y="77.335892"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">2</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(91.962656,200.84076)"
+             id="g3116">
+            <g
+               id="g3114"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect3110"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3112"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3128"
+             transform="translate(70.962654,200.84076)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3122">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3118"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3120"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text3126"
+               y="77.335892"
+               x="34.785439"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.785439"
+                 id="tspan3124">2</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3152"
+             transform="translate(7.9626477,200.84076)">
+            <g
+               id="g3146"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 id="rect3142"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 id="rect3144"
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               id="text3150"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.681103"
+               y="77.335892"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan3148"
+                 x="34.681103"
+                 y="77.335892"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">A</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3164"
+             transform="translate(28.96265,200.84076)">
+            <g
+               id="g3158"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 id="rect3154"
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 id="rect3156"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               id="text3162"
+               transform="scale(1.1413428,0.87616096)"
+               y="77.335892"
+               x="34.681103"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 id="tspan3160"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.681103">A</tspan>
+            </text>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0669912,0.93721486)"
+           id="text11085"
+           y="291.397"
+           x="139.00528"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148"
+             y="291.397"
+             x="139.00528"
+             id="tspan11083">Two Pair</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-22.919334)"
+         id="g12011">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11053"
+           transform="translate(7.9626496,259.62802)">
+          <g
+             style="stroke-width:1.85987329"
+             id="g15117">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g11047"
+               inkscape:label="g11047">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect11043" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841"
+                 id="rect11045" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               y="77.335892"
+               x="34.681103"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               id="text11051">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.681103"
+                 id="tspan11049">A</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3184-1"
+             transform="translate(63.000034)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3182-6">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3178-2"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788-2)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3180-0"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(42.000025)"
+             id="g3228-4">
+            <g
+               id="g3226-8"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788-2)"
+                 id="rect3222-2"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3224-2"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3236-3"
+             transform="translate(21.000014)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3234-3">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3230-2"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788-2)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3232-7"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+          </g>
+          <g
+             transform="translate(84.000042)"
+             id="g15110"
+             style="stroke-width:1.85987329">
+            <g
+               id="g15108"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788-2)"
+                 id="rect15104"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect15106"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0669912,0.93721486)"
+           id="text11093"
+           y="352.8988"
+           x="138.46906"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148"
+             y="352.8988"
+             x="138.46906"
+             id="tspan11091">High Card</tspan>
+        </text>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-1.6573899)"
+         id="g11778">
+        <text
+           transform="scale(1.0669912,0.93721486)"
+           id="text11061"
+           y="74.197426"
+           x="138.7795"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148"
+             y="74.197426"
+             x="138.7795"
+             id="tspan11059">Straight Fush</tspan>
+        </text>
+        <g
+           style="stroke-width:1.85987329"
+           transform="translate(0,-0.72256882)"
+           id="g11485">
+          <g
+             style="stroke-width:1.85987329"
+             id="g2776"
+             transform="translate(7.9626477,-0.85264903)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g2768">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect2764"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect2766"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text2772"
+               y="76.7258"
+               x="34.878021"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="76.7258"
+                 x="34.878021"
+                 id="tspan2770">A</tspan>
+            </text>
+            <path
+               inkscape:connector-curvature="0"
+               id="path2774"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               d="m 42.737732,71.495235 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213" />
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(28.96265,-0.85264903)"
+             id="g11397">
+            <g
+               id="g11389"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect11385"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect11387"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.878021"
+               y="76.7258"
+               id="text11393"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan11391"
+                 x="34.878021"
+                 y="76.7258"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">2</tspan>
+            </text>
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42.737732,71.495235 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               id="path11395" />
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g11411"
+             transform="translate(49.962652,-0.85264903)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g11403">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect11399"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect11401"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text11407"
+               y="76.7258"
+               x="34.878021"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="76.7258"
+                 x="34.878021"
+                 id="tspan11405">3</tspan>
+            </text>
+            <path
+               inkscape:connector-curvature="0"
+               id="path11409"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               d="m 42.737732,71.495235 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213" />
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(70.962654,-0.85264903)"
+             id="g11429">
+            <g
+               id="g11419"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect11415"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect11417"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.303501"
+               y="76.7258"
+               id="text11423"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan11421"
+                 x="34.303501"
+                 y="76.7258"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">4</tspan>
+            </text>
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42.737732,71.495235 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               id="path11425" />
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g11445"
+             transform="translate(91.962656,-0.5853795)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g11435">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect11431"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect11433"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text11439"
+               y="76.7258"
+               x="34.878021"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="76.7258"
+                 x="34.878021"
+                 id="tspan11437">5</tspan>
+            </text>
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42.737732,71.495235 c -1.497591,-1.19351 -2.280066,-1.7879 -3.147206,-3.47804 -0.863761,1.68959 -1.647325,2.28466 -3.142033,3.47996 -2.338685,1.86856 -1.04157,4.30426 0.786693,4.42238 1.139408,0.0709 1.828091,-0.74076 2.148249,-1.25209 -0.100477,0.68775 -0.30413,1.9186 -0.564107,2.46875 l 1.546599,-4.23e-4 c -0.256598,-0.54983 -0.462346,-1.78049 -0.562244,-2.46839 0.319538,0.50906 1.008983,1.32301 2.148028,1.24993 1.82815,-0.11908 3.123766,-2.55598 0.786051,-4.42213"
+               style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06561217"
+               id="path11443" />
+          </g>
+        </g>
+      </g>
+      <g
+         style="stroke-width:1.85987329"
+         transform="translate(2.6e-5,-22.976072)"
+         id="g12256">
+        <g
+           style="stroke-width:1.85987329"
+           id="g11695"
+           transform="translate(-1.1358955,-7.7142161e-6)">
+          <g
+             style="stroke-width:1.85987329"
+             id="g3176"
+             transform="translate(9.0985432,229.70587)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3170">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3166"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3168"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+            <text
+               transform="scale(1.1413428,0.87616096)"
+               id="text3174"
+               y="77.335892"
+               x="34.97562"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 y="77.335892"
+                 x="34.97562"
+                 id="tspan3172">2</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3184"
+             transform="translate(93.098552,229.70587)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3182">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3178"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3180"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(30.098545,229.70587)"
+             id="g3196">
+            <g
+               id="g3190"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect3186"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3188"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.97562"
+               y="77.335892"
+               id="text3194"
+               transform="scale(1.1413428,0.87616096)">
+              <tspan
+                 id="tspan3192"
+                 x="34.97562"
+                 y="77.335892"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">2</tspan>
+            </text>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             transform="translate(72.098549,229.70587)"
+             id="g3228">
+            <g
+               id="g3226"
+               style="display:inline;stroke-width:1.85987329">
+              <rect
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)"
+                 id="rect3222"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.950163"
+                 y="54.740196"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.339287"
+                 x="30.616072"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3224"
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             style="stroke-width:1.85987329"
+             id="g3236"
+             transform="translate(51.098547,229.70587)">
+            <g
+               style="display:inline;stroke-width:1.85987329"
+               id="g3234">
+              <rect
+                 rx="3.1330841"
+                 ry="3.1302176"
+                 y="54.740196"
+                 x="30.950163"
+                 height="25.513393"
+                 width="17.953869"
+                 id="rect3230"
+                 style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18788)" />
+              <rect
+                 style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect3232"
+                 width="17.953869"
+                 height="25.513393"
+                 x="30.616072"
+                 y="54.339287"
+                 ry="3.1302176"
+                 rx="3.1330841" />
+            </g>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0669912,0.93721486)"
+           id="text12001"
+           y="322.31543"
+           x="138.46906"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111002px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.49209088">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.49209148"
+             y="322.31543"
+             x="138.46906"
+             id="tspan11999">Pair</tspan>
+        </text>
+      </g>
+    </g>
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(97.88635)"
+       id="use15794"
+       xlink:href="#g15011"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="rotate(-90,195.77137,182.64618)"
+       id="use15796"
+       xlink:href="#use15794"
+       y="0"
+       x="0" />
+  </g>
+</svg>
