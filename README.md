@@ -8,6 +8,10 @@
 
 ![](preview.png)
 
+# Download
+
+Files are available [here](https://github.com/brunetton/poker_poket_hands/releases/)
+
 ## Contributions
 
 Contributions are welcome (translations, adaptations, etc)
