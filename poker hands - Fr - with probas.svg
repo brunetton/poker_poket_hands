@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="poker hands - Fr - with probas.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata13843">
     <rdf:RDF>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1916"
-     inkscape:window-height="1014"
+     inkscape:window-height="1019"
      id="namedview13841"
      showgrid="false"
-     inkscape:zoom="1.6819304"
-     inkscape:cx="240.2319"
-     inkscape:cy="531.18307"
+     inkscape:zoom="1.4092737"
+     inkscape:cx="215.95054"
+     inkscape:cy="745.81483"
      inkscape:window-x="0"
-     inkscape:window-y="45"
+     inkscape:window-y="40"
      inkscape:window-maximized="0"
      inkscape:current-layer="g16125" />
   <defs
@@ -411,7 +411,7 @@
                  style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
             <text
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;"
                x="34.63467"
                y="77.329758"
                id="text10971"
@@ -420,7 +420,7 @@
                  id="tspan10969"
                  x="34.63467"
                  y="77.329758"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">4</tspan>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;">4</tspan>
             </text>
           </g>
           <g
@@ -454,9 +454,9 @@
                id="text10983"
                y="77.329758"
                x="34.63467"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;">
               <tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;"
                  y="77.329758"
                  x="34.63467"
                  id="tspan10981">4</tspan>
@@ -489,7 +489,7 @@
                  style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
             <text
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;"
                x="34.63467"
                y="77.329758"
                id="text10995"
@@ -498,7 +498,7 @@
                  id="tspan10993"
                  x="34.63467"
                  y="77.329758"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">4</tspan>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;">4</tspan>
             </text>
           </g>
           <g
@@ -532,9 +532,9 @@
                id="text11007"
                y="77.329758"
                x="34.63467"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;">
               <tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;"
                  y="77.329758"
                  x="34.63467"
                  id="tspan11005">4</tspan>
@@ -657,7 +657,7 @@
                    style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               </g>
               <text
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;"
                  x="34.681103"
                  y="77.335892"
                  id="text2498"
@@ -666,7 +666,7 @@
                    id="tspan2496"
                    x="34.681103"
                    y="77.335892"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">A</tspan>
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#008080;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;">A</tspan>
               </text>
             </g>
             <g
@@ -778,9 +778,9 @@
                  id="text11039"
                  y="77.335892"
                  x="34.681103"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;">
                 <tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#008080;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;"
                    y="77.335892"
                    x="34.681103"
                    id="tspan11037">A</tspan>
@@ -1424,7 +1424,7 @@
                  style="opacity:1;fill:#fdfdfc;fill-opacity:1;stroke:#c7c7c7;stroke-width:0.84252268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
             <text
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;"
                x="34.785439"
                y="77.335892"
                id="text3098"
@@ -1433,7 +1433,7 @@
                  id="tspan3096"
                  x="34.785439"
                  y="77.335892"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">2</tspan>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#008080;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;">2</tspan>
             </text>
           </g>
           <g
@@ -1494,9 +1494,9 @@
                id="text3126"
                y="77.335892"
                x="34.785439"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;">
               <tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#008080;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;"
                  y="77.335892"
                  x="34.785439"
                  id="tspan3124">2</tspan>
@@ -1530,7 +1530,7 @@
             </g>
             <text
                id="text3150"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;"
                x="34.681103"
                y="77.335892"
                transform="scale(1.1413428,0.87616096)">
@@ -1538,7 +1538,7 @@
                  id="tspan3148"
                  x="34.681103"
                  y="77.335892"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none">A</tspan>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;">A</tspan>
             </text>
           </g>
           <g
@@ -1572,10 +1572,10 @@
                transform="scale(1.1413428,0.87616096)"
                y="77.335892"
                x="34.681103"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none">
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;">
               <tspan
                  id="tspan3160"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;"
                  y="77.335892"
                  x="34.681103">A</tspan>
             </text>
@@ -1632,10 +1632,10 @@
                transform="scale(1.1413428,0.87616096)"
                y="77.335892"
                x="34.681103"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#d02028;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34440041px;line-height:1.25;font-family:'Warsaw Gothic';font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26244858;stroke-miterlimit:4;stroke-dasharray:none;"
                id="text11051">
               <tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d02028;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444427px;font-family:'Warsaw Gothic';-inkscape-font-specification:'Warsaw Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.26244879;stroke-miterlimit:4;stroke-dasharray:none;"
                  y="77.335892"
                  x="34.681103"
                  id="tspan11049">A</tspan>
