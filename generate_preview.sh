@@ -1,0 +1,1 @@
+montage -label "English" png/poker\ hands.png -label "French" png/poker\ hands\ -\ Fr.png  -geometry x450+40 -pointsize 20 preview.png
