@@ -32,6 +32,10 @@ To add another language:
 
 => Please [**submit a PR**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) (or open a bug if you don't know how to make a PR)
 
+## Generation process
+
+- `poker hands.svg` -> `generate_pngs_and_pdf.sh` -> (`svg/*`, `pdf/*`, `png/*`)
+
 ## Contributions
 
 Contributions are welcome (translations, adaptations, etc)
