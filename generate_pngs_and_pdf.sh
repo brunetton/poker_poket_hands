@@ -1,3 +1,6 @@
+#!/bin/bash
+INKSCAPE_COMMAND="${INKSCAPE_COMMAND:-inkscape}"
+
 # Clean output dirs
 rm -f pdf/* png/* svg/*
 
@@ -7,12 +10,12 @@ rm -f pdf/* png/* svg/*
 # Then generate pdf and svg versions from those files
 cd svg
 for filename in *.svg; do
-    echo $filename
+    echo "-> $filename"
     # PDF
-    inkscape "$filename" --export-pdf="../pdf/${filename%.*}.pdf"
+    $INKSCAPE_COMMAND "$filename" --export-pdf="../pdf/${filename%.*}.pdf"
     # PNG (using group named "main" in svg file)
     png_filepath="../png/${filename%.*}.png"
-    inkscape "$filename" --export-id="main" -d 200 --export-png="$png_filepath"
+    $INKSCAPE_COMMAND "$filename" --export-id="main" -d 200 --export-png="$png_filepath"
     # Add border using imagemagik
     convert "$png_filepath" -bordercolor white -border 15x10 "$png_filepath"
 done
